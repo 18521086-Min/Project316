@@ -32,8 +32,9 @@
 ---
 ## Convert from RGB to HSV
 ### Formula
-<img width="718" alt="FTH7K" src="https://user-images.githubusercontent.com/74291056/113453326-f59ccd80-942f-11eb-9276-01b9b9680abe.png" width="100">
 
+<img width="718" alt="FTH7K" src="https://user-images.githubusercontent.com/74291056/113453326-f59ccd80-942f-11eb-9276-01b9b9680abe.png" width="100">
 ### Hardware
+
 ![Screenshot 2021-04-03 043713](https://user-images.githubusercontent.com/74291056/113456240-e4a38a80-9436-11eb-99e7-15f8b1fc0bbd.png)
 
