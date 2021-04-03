@@ -11,7 +11,7 @@
   $ python3 ~/Python/fpToImageHSV.py
 ```
 ---
-## Directory
+## Directory rganization
 1. **RTL**
    * mul.v
    * div.v
@@ -33,6 +33,7 @@
    * decToFP.py
    * fpToDec.py
 5. **Image**
+   * rgb.png
 ---
 ## Convert from RGB to HSV
 ### Formula
