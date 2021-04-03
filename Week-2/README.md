@@ -28,7 +28,11 @@
    * run.do
    * main.py
 4. **Python Code**
-5. **Image**
+   * imageToFP.py
+   * fpToImageHSV.py
+   * decToFP.py
+   * fpT
+5 **Image**
 ---
 ## Convert from RGB to HSV
 ### Formula
