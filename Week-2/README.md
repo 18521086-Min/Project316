@@ -31,7 +31,7 @@
    * imageToFP.py
    * fpToImageHSV.py
    * decToFP.py
-   * fpT
+   * fpToDec.py
 5 **Image**
 ---
 ## Convert from RGB to HSV
