@@ -40,7 +40,15 @@
 
 <img width="718" alt="FTH7K" src="https://user-images.githubusercontent.com/74291056/113453326-f59ccd80-942f-11eb-9276-01b9b9680abe.png" width="100">
 
-### Hardware
+### Proposed Architecture
 
 ![Screenshot 2021-04-03 043713](https://user-images.githubusercontent.com/74291056/113456240-e4a38a80-9436-11eb-99e7-15f8b1fc0bbd.png)
+
+### Testbench
+![168396914_799077591045878_3362400065230859659_n](https://user-images.githubusercontent.com/74291056/113886540-f5635000-97ea-11eb-9ea9-d7a4ac789fca.png)
+![165867787_143344524370232_2422818174957345216_n](https://user-images.githubusercontent.com/74291056/113886559-fb593100-97ea-11eb-99ca-16eded2ff6a2.png)
+
+
+
+
 
