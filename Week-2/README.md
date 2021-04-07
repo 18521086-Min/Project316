@@ -47,6 +47,13 @@
 ### Testbench
 ![168396914_799077591045878_3362400065230859659_n](https://user-images.githubusercontent.com/74291056/113886540-f5635000-97ea-11eb-9ea9-d7a4ac789fca.png)
 ![165867787_143344524370232_2422818174957345216_n](https://user-images.githubusercontent.com/74291056/113886559-fb593100-97ea-11eb-99ca-16eded2ff6a2.png)
+---
+## Synthesis
+### Elaborate schematic
+![169181784_1215889802165380_1608392890421675785_n](https://user-images.githubusercontent.com/74291056/113887068-60148b80-97eb-11eb-9374-3ff93dc0aa85.png)
+### Hardware utilization
+![166357746_532485994805555_8880558255878534051_n](https://user-images.githubusercontent.com/74291056/113887215-81757780-97eb-11eb-8fbe-20f9bd16edd5.png)
+
 
 
 
