@@ -11,7 +11,7 @@
   $ python3 ~/Python/fpToImageHSV.py
 ```
 ---
-## Directory rganization
+## Directory Organization
 1. **RTL**
    * mul.v
    * div.v
